@@ -1,0 +1,26 @@
+h2, h1 {
+  font-family: sans-serif;
+  color: wheat;
+}
+#computer-choice {
+  color: red;
+}
+#user-choice {
+  color: rgb(73, 139, 155);
+}
+#result {
+  color: rgb(168, 46, 46);
+}
+
+button {
+  background-color: blue;
+  padding: 5px 5px 5px 5px;
+  border: none;
+  border-radius: 5px;
+  color: white;
+  width: 60px;
+  height: 25px;
+}
+body {
+  background-color: black;
+}
